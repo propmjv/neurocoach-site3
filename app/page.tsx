@@ -1,3 +1,5 @@
+export default function Home() {
+return (
 <div style={{ padding: "40px", fontFamily: "Arial", backgroundColor: "#f8f5f2" }}>
 Marti J van Vuuren Neuro Coaching
 Elevate Your Mind. Redefine Your Life.
